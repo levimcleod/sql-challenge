@@ -1,4 +1,4 @@
-﻿DROP TABLE IF EXISTS employees, titles, departments, dept_emp, dept_manager, salaries;
+﻿DROP TABLE IF EXISTS titles, employees, departments, dept_emp, dept_manager, salaries;
 
 CREATE TABLE titles (
   title_id VARCHAR(5) NOT NULL,
