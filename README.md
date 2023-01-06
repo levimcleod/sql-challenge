@@ -1,5 +1,7 @@
 # sql-challenge
 
+![Entity Relationship Diagram](EmployeeSQL/ERD.png)
+
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
